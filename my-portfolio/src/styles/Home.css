@@ -38,3 +38,31 @@
 .icons{
     padding:20px;
 }
+
+.skills{
+    width: 100%;
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color:#e1bf8e;
+}
+
+.skills h2{
+    color:#79A6A3;
+    padding-top: 5px;
+}
+
+.skillslist{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    color:#C7D7CA;
+
+}
+
+.skillslist span {
+    font-size:22px;
+    color:#e1bf8e;
+}
