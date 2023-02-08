@@ -21,9 +21,9 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Home />}/>
-          <Route path="/" element={<Contact />}/>
-          <Route path="/" element={<Resume />}/>
-          <Route path="/" element={<Portfolio />}/>
+          <Route path="/contact" element={<Contact />}/>
+          <Route path="/resume" element={<Resume />}/>
+          <Route path="/portfolio" element={<Portfolio />}/>
         </Routes>
       </Router>
     </div>
