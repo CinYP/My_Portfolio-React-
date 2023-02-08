@@ -6,9 +6,9 @@ export default function Home() {
     <div className='home'>
       <div className='about'>
           <h2>Hi, My Name is Cinthia Pruitt </h2>
-          <div className='information'>
+          <div className='aboutinformation'>
               <p>
-                Highly motivated Software Engineer and Marketer with experience in Digital Marketing Strategy Consulting, Sales & Marketing, and Software Development. I have a strong background in developing and executing comprehensive Social Media strategies, Search Engine Optimization, Software Development, and design for Enterprise Clients.
+                Highly motivated Full-Stack Software Engineer and Marketer with experience in Digital Marketing Strategy Consulting, Sales & Marketing, and Software Development. I have a strong background in developing and executing comprehensive Social Media strategies, Search Engine Optimization, Software Development, and design for Enterprise Clients.
               </p>
               <div className='icons'>
               - Linkedin Github Email Icons coming soon -
