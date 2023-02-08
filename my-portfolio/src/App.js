@@ -1,9 +1,9 @@
 import './App.css';
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
-import Home from './components/Home';
-import Contact from './components/Contact';
-import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
+import Home from './pages/Home';
+import Contact from './pages/Contact';
+import Portfolio from './pages/Portfolio';
+import Resume from './pages/Resume';
 
 
 function App() {
