@@ -1,15 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import "../styles/NavBar";
-import {RxHamburgerMenu} from 'react-icons/fa';
+import "../styles/Navbar.css";
+//import {RxHamburgerMenu} from 'react-icons/fa';<RxHamburgerMenu />
 
 export default function Navbar() {
   return (
     <div className='navbar'>
       <div className='toggleButton'>
-        <button>
-            <RxHamburgerMenu />
-        </button>
         </div>
         <div className='navlinks'>
             <Link to="/"> Home </Link>
