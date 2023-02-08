@@ -1,5 +1,10 @@
 import './App.css';
 import {BrowserRouter as Router,Routes,Route} from "react-router-dom";
+import Home from './components/Home';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
+
 
 function App() {
   return (
