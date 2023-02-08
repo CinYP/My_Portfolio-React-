@@ -6,6 +6,7 @@ import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 //importing because the navbar exists in every component
 import NavBar from './components/Navbar';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -33,6 +34,7 @@ function App() {
           <Route path="/resume" element={<Resume />}/>
           <Route path="/portfolio" element={<Portfolio />}/>
         </Routes>
+        {/* <Footer/> */}
       </Router>
     </div>
   );
