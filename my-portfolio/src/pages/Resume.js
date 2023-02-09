@@ -24,6 +24,9 @@ export default function Resume() {
                 <li>
                 Aid the client in identifying opportunities for growth for upsells, revenue generation, efficiencies, and relationship management.
                 </li>
+                <li>
+                Develop and execute comprehensive social media strategies for enterprise clients in the Consumer Packaged Goods industry.
+                </li>
                 </div>
             </li>
             <li className='experience-item'> 
@@ -36,6 +39,9 @@ export default function Resume() {
                 </li>
                 <li>
                 Developed  in-depth presentations containing digital marketing audits of current marketing efforts for several stakeholders in private equity groups, developed partnership contracts, and negotiated contract terms and fees. 
+                </li>
+                <li>
+                Recommended proper digital channels to prospective clients to help with lead generation efforts through self-taught strategies in SEO, Paid Search, and Paid Social. 
                 </li>
                 </div>
             </li>
